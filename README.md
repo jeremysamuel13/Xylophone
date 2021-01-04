@@ -1,3 +1,3 @@
 # Xylophone
 
-Simple xylophone app written in Flutter
+A simple xylophone app written in Flutter
